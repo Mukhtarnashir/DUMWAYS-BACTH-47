@@ -1,0 +1,44 @@
+body {
+    border: 1px solid black;
+    width: 350px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 30px gray;
+
+
+}
+
+img {
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+h2 {
+    margin-top:2px;
+    margin-bottom: auto;
+    text-align: center;
+}
+p{
+    margin-top:2px;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 5px;
+}
+th, td {
+    border: 1px solid black;
+    width: 2px;
+    text-align: center;
+    padding: 2px;
+
+}
+th {
+    padding:5px;
+    background-color:grey;
+}
+.name {
+   text-align: left;
+}
